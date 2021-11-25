@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
 
         System.out.println(gato);
 
-        Livro livro1= new Livro("Harry Potter e a pedra filosofal", 350);
+        Livro livro1= new Livro("Harry Potter e a câmara secreta", 350);
 
         System.out.println(livro1);
        /* int a = 5;
